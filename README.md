@@ -7,7 +7,7 @@ The system includes specialized AI agents designed to handle specific domains:
   * Monitors temperature, precipitation, and atmospheric conditions
   * Generates weather alerts and recommendations
 
-* **Finance Agent**: Manages financial data analysis and reporting [(Finance Agent)](finance/README.md)
+* **Finance Agent**: Manages financial data analysis and reporting [(Finance Agent)](finance/readme.md)
   * Tracks market trends and stock performance
   * Processes transaction data and financial metrics
   * Provides investment insights and risk analysis
