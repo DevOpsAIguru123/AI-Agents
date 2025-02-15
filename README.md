@@ -12,3 +12,7 @@ The system includes specialized AI agents designed to handle specific domains:
   * Processes transaction data and financial metrics
   * Provides investment insights and risk analysis
 
+* **Chat Agent**: Handles conversational interactions using LangChain [(Chat Agent)](chat-agent-langchain/README.md)
+  * Processes natural language queries and provides contextual responses
+  * Maintains conversation history and context
+  * Integrates with LangChain for enhanced language processing capabilities
