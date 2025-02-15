@@ -1,0 +1,8 @@
+# Core dependencies
+langchain>=0.1.0
+openai>=1.0.0
+python-dotenv>=1.0.0
+
+# Vector storage and embeddings
+chromadb>=0.4.0
+sentence-transformers>=2.2.0
