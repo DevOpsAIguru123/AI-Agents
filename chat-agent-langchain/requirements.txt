@@ -6,3 +6,20 @@ python-dotenv>=1.0.0
 # Vector storage and embeddings
 chromadb>=0.4.0
 sentence-transformers>=2.2.0
+
+# Web framework and UI
+streamlit>=1.30.0
+fastapi>=0.100.0
+uvicorn>=0.23.0
+
+# Authentication and security
+python-jose[cryptography]>=3.3.0
+passlib>=1.7.4
+
+# Utility packages
+pydantic>=2.0.0     # for data validation
+tiktoken>=0.5.0     # for token counting
+
+# Testing
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
