@@ -20,7 +20,7 @@ lxml==6.1.0
 lxml_html_clean==0.4.1
 newspaper3k==0.2.8
 nltk==3.9.4
-pillow==11.1.0
+pillow==12.3.0
 pydantic==2.10.6
 pydantic_core==2.27.2
 python-dateutil==2.9.0.post0
